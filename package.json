@@ -1,0 +1,25 @@
+{
+  "name": "script_npm",
+  "version": "1.0.0",
+  "description": "exercice_minifier_image",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hamid.B",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaBe-Campus/Vue_JS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HaBe-Campus/Vue_JS/issues"
+  },
+  "homepage": "https://github.com/HaBe-Campus/Vue_JS#readme",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-pngquant": "^9.0.2"
+  },
+  "devDependencies": {}
+}
